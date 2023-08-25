@@ -1,5 +1,5 @@
 # Color-detection
-Some Real-world Applications
+# Some Real-world Applications
 In self-driving car, to detect the traffic signals.
 Multiple color detection is used in some industrial robots, to performing pick-and-place task in separating different colored objects.
 
